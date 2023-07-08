@@ -2,7 +2,6 @@
 - 👀 I’m interested in Hacking 
 - 🌱 I’m currently learning Hacking 
 - 💞️ I’m looking to collaborate on Hacking 
-- 📫
 
 <!---
 Divinexchange/Divinexchange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
